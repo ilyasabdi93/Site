@@ -1,0 +1,18 @@
+{
+  "name": "3d-clothing-ads",
+  "version": "1.0.0",
+  "description": "3D Clothing Ads Website with Auth",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.7",
+    "googleapis": "^128.0.0",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1"
+  }
+}
